@@ -1,0 +1,14 @@
+{
+  "client_id": "https://rui-ax002.github.io/binance-mcp-cimd/client-metadata.json",
+  "client_name": "Binance MCP DSH Client",
+  "redirect_uris": [
+    "http://127.0.0.1:3080/mcp-manager/callback/ws-c1547556fcec76377332"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
